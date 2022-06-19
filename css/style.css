@@ -302,7 +302,7 @@ h1 {
 }
 
 .box {
-    width: 1300px;
+    width: 1150px;
     height: 160px;
     background-color: #367436;
     margin-top: 50px;
@@ -380,8 +380,7 @@ h4 {
 
 .infoo {
     margin-top: -76px;
-    float: left;
-    margin-left: 1210px;
+    right: 55px;
     position: absolute;
 }
 
@@ -1545,7 +1544,7 @@ h4 {
 
 .infoooo {
     width: 100%;
-    height: 2620px;
+    height: auto;
     background-color: #fff;
 }
 
@@ -1577,7 +1576,7 @@ h4 {
 }
 
 .imagein001 {
-    width: 565px;
+    width: 30%;
     height: 500px;
     background-color: #004929;
     background-image: url(/img/garden-care.jpg);
@@ -1636,7 +1635,7 @@ h4 {
 
 
 .imagein003 {
-    width: 565px;
+    width: 30%;
     height: 500px;
     background-color: #004929;
     background-image: url(/img/water-friendly.jpg);
