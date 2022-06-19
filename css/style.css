@@ -2251,10 +2251,9 @@ h4 {
 /* <---------- products----------> */
 
 
-
 .products {
     width: 100%;
-    height: 1900px;
+    height: 2300px;
     margin-top: 60px;
 }
 
@@ -2293,14 +2292,41 @@ h4 {
 }
 
 #productss001 {
+    width: 300px;
+    height: 450px;
+    background-color: rgba(179, 170, 170, 0.767);
+    border-radius: 8px;
+    transition: 0.3s;
+}
+
+#img001{
     width: 260px;
     height: 320px;
-    background-color: #004929;
+    margin-top: 20px;
+    margin-left: 20px;
     background-image: url(/img/product-1-tomato-cage.jpg);
     background-position: center;
     background-size: cover;
     border-radius: 8px;
-    transition: 0.3s;
+}
+
+.texth4 h4{
+    color: black;
+    margin-left: 20px;
+    padding-top: 2px;
+    font-size: 30px;
+    font-family: 'Abril Fatface', cursive;
+    font-weight: 400;
+}
+
+.star{
+    margin-left: 20px;
+    font-size: 18px;
+}
+
+.fa{
+    color: rgb(243, 243, 72);
+    border-color: orange;
 }
 
 #productss001:hover {
@@ -2310,14 +2336,22 @@ h4 {
 
 
 #productss002 {
+    width: 300px;
+    height: 450px;
+    background-color: rgba(179, 170, 170, 0.767);
+    border-radius: 8px;
+    transition: 0.3s;
+}
+
+#img002{
     width: 260px;
     height: 320px;
-    background-color: #004929;
+    margin-top: 20px;
+    margin-left: 20px;
     background-image: url(/img/product-2-pots.jpg);
     background-position: center;
     background-size: cover;
     border-radius: 8px;
-    transition: 0.3s;
 }
 
 
@@ -2327,14 +2361,22 @@ h4 {
 }
 
 #productss003 {
+    width: 300px;
+    height: 450px;
+    background-color: rgba(179, 170, 170, 0.767);
+    border-radius: 8px;
+    transition: 0.3s;
+}
+
+#img003{
     width: 260px;
     height: 320px;
-    background-color: #004929;
+    margin-top: 20px;
+    margin-left: 20px;
     background-image: url(/img/product-3-quarter-round-lattice-plant-standard.jpg);
     background-position: center;
     background-size: cover;
     border-radius: 8px;
-    transition: 0.3s;
 }
 
 
@@ -2344,14 +2386,22 @@ h4 {
 }
 
 #productss004 {
+    width: 300px;
+    height: 450px;
+    background-color: rgba(179, 170, 170, 0.767);
+    border-radius: 8px;
+    transition: 0.3s;
+}
+
+#img004{
     width: 260px;
     height: 320px;
-    background-color: #004929;
+    margin-top: 20px;
+    margin-left: 20px;
     background-image: url(/img/product-4-flowering-terrarium-plant-collection-set-of-6.jpg);
     background-position: center;
     background-size: cover;
     border-radius: 8px;
-    transition: 0.3s;
 }
 
 
@@ -2367,14 +2417,22 @@ h4 {
 }
 
 #productss005 {
+    width: 300px;
+    height: 450px;
+    background-color: rgba(179, 170, 170, 0.767);
+    border-radius: 8px;
+    transition: 0.3s;
+}
+
+#img005{
     width: 260px;
     height: 320px;
-    background-color: #004929;
+    margin-top: 20px;
+    margin-left: 20px;
     background-image: url(/img/product-5-industrial-galvanized-metal-hanging-triple-planter.jpg);
     background-position: center;
     background-size: cover;
     border-radius: 8px;
-    transition: 0.3s;
 }
 
 
@@ -2384,14 +2442,22 @@ h4 {
 }
 
 #productss006 {
+    width: 300px;
+    height: 450px;
+    background-color: rgba(179, 170, 170, 0.767);
+    border-radius: 8px;
+    transition: 0.3s;
+}
+
+#img006{
     width: 260px;
     height: 320px;
-    background-color: #004929;
+    margin-top: 20px;
+    margin-left: 20px;
     background-image: url(/img/product-6-long-reach-watering-can-2-gallon.jpg);
     background-position: center;
     background-size: cover;
     border-radius: 8px;
-    transition: 0.3s;
 }
 
 
@@ -2401,14 +2467,22 @@ h4 {
 }
 
 #productss007 {
+    width: 300px;
+    height: 450px;
+    background-color: rgba(179, 170, 170, 0.767);
+    border-radius: 8px;
+    transition: 0.3s;
+}
+
+#img007{
     width: 260px;
     height: 320px;
-    background-color: #004929;
+    margin-top: 20px;
+    margin-left: 20px;
     background-image: url(/img/product-7-mini-coil-indoor-garden-hose-with-sprayer.jpg);
     background-position: center;
     background-size: cover;
     border-radius: 8px;
-    transition: 0.3s;
 }
 
 
@@ -2418,14 +2492,22 @@ h4 {
 }
 
 #productss008 {
+    width: 300px;
+    height: 450px;
+    background-color: rgba(179, 170, 170, 0.767);
+    border-radius: 8px;
+    transition: 0.3s;
+}
+
+#img008{
     width: 260px;
     height: 320px;
-    background-color: #004929;
+    margin-top: 20px;
+    margin-left: 20px;
     background-image: url(/img/product-8-terrarium-tools-set-of-4.jpg);
     background-position: center;
     background-size: cover;
     border-radius: 8px;
-    transition: 0.3s;
 }
 
 
@@ -2442,14 +2524,22 @@ h4 {
 }
 
 #productss009 {
+    width: 300px;
+    height: 450px;
+    background-color: rgba(179, 170, 170, 0.767);
+    border-radius: 8px;
+    transition: 0.3s;
+}
+
+#img009{
     width: 260px;
     height: 320px;
-    background-color: #004929;
+    margin-top: 20px;
+    margin-left: 20px;
     background-image: url(/img/product-9-gardeners-lifetime-mini-trowel.jpg);
     background-position: center;
     background-size: cover;
     border-radius: 8px;
-    transition: 0.3s;
 }
 
 #productss009:hover {
@@ -2459,14 +2549,22 @@ h4 {
 
 
 #productss0010 {
+    width: 300px;
+    height: 450px;
+    background-color: rgba(179, 170, 170, 0.767);
+    border-radius: 8px;
+    transition: 0.3s;
+}
+
+#img0010{
     width: 260px;
     height: 320px;
-    background-color: #004929;
+    margin-top: 20px;
+    margin-left: 20px;
     background-image: url(/img/product-10-wheeled-sprinkler-sled.jpg);
     background-position: center;
     background-size: cover;
     border-radius: 8px;
-    transition: 0.3s;
 }
 
 
@@ -2476,14 +2574,22 @@ h4 {
 }
 
 #productss0011 {
+    width: 300px;
+    height: 450px;
+    background-color: rgba(179, 170, 170, 0.767);
+    border-radius: 8px;
+    transition: 0.3s;
+}
+
+#img0011{
     width: 260px;
     height: 320px;
-    background-color: #004929;
+    margin-top: 20px;
+    margin-left: 20px;
     background-image: url(/img/product-11-spear-head-spade.jpg);
     background-position: center;
     background-size: cover;
     border-radius: 8px;
-    transition: 0.3s;
 }
 
 
@@ -2493,14 +2599,22 @@ h4 {
 }
 
 #productss0012 {
+    width: 300px;
+    height: 450px;
+    background-color: rgba(179, 170, 170, 0.767);
+    border-radius: 8px;
+    transition: 0.3s;
+}
+
+#img0012{
     width: 260px;
     height: 320px;
-    background-color: #004929;
+    margin-top: 20px;
+    margin-left: 20px;
     background-image: url(/img/product-12-bypass-pruners.jpg);
     background-position: center;
     background-size: cover;
     border-radius: 8px;
-    transition: 0.3s;
 }
 
 
@@ -2516,14 +2630,22 @@ h4 {
 }
 
 #productss0013 {
+    width: 300px;
+    height: 450px;
+    background-color: rgba(179, 170, 170, 0.767);
+    border-radius: 8px;
+    transition: 0.3s;
+}
+
+#img0013{
     width: 260px;
     height: 320px;
-    background-color: #004929;
+    margin-top: 20px;
+    margin-left: 20px;
     background-image: url(/img/product-13-gardening-glows.jpg);
     background-position: center;
     background-size: cover;
     border-radius: 8px;
-    transition: 0.3s;
 }
 
 
@@ -2533,14 +2655,22 @@ h4 {
 }
 
 #productss0014 {
+    width: 300px;
+    height: 450px;
+    background-color: rgba(179, 170, 170, 0.767);
+    border-radius: 8px;
+    transition: 0.3s;
+}
+
+#img0014{
     width: 260px;
     height: 320px;
-    background-color: #004929;
+    margin-top: 20px;
+    margin-left: 20px;
     background-image: url(/img/product-14-grass-cutter.jpg);
     background-position: center;
     background-size: cover;
     border-radius: 8px;
-    transition: 0.3s;
 }
 
 
@@ -2550,14 +2680,22 @@ h4 {
 }
 
 #productss0015 {
+    width: 300px;
+    height: 450px;
+    background-color: rgba(179, 170, 170, 0.767);
+    border-radius: 8px;
+    transition: 0.3s;
+}
+
+#img0015{
     width: 260px;
     height: 320px;
-    background-color: #004929;
+    margin-top: 20px;
+    margin-left: 20px;
     background-image: url(/img/product-15-border-fork.jpg);
     background-position: center;
     background-size: cover;
     border-radius: 8px;
-    transition: 0.3s;
 }
 
 
@@ -2567,14 +2705,22 @@ h4 {
 }
 
 #productss0016 {
+    width: 300px;
+    height: 450px;
+    background-color: rgba(179, 170, 170, 0.767);
+    border-radius: 8px;
+    transition: 0.3s;
+}
+
+#img0016{
     width: 260px;
     height: 320px;
-    background-color: #004929;
+    margin-top: 20px;
+    margin-left: 20px;
     background-image: url(/img/product-16-plant-cuter.jpg);
     background-position: center;
     background-size: cover;
     border-radius: 8px;
-    transition: 0.3s;
 }
 
 
@@ -2582,7 +2728,6 @@ h4 {
     box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.7);
     transform: translate(0px, -10px);
 }
-
 
 /* <---------decoration--------> */
 
